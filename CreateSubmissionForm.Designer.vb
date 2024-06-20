@@ -1,12 +1,8 @@
 ﻿Partial Class CreateSubmissionForm
     Inherits System.Windows.Forms.Form
 
-    ' Required designer variable
     Private components As System.ComponentModel.IContainer
 
-    ' Note: The following procedure is required by the Windows Form Designer
-    ' It can be modified using the Windows Form Designer.  
-    ' Do not modify it using the code editor.
     Private Sub InitializeComponent()
         txtName = New TextBox()
         txtEmail = New TextBox()

@@ -7,6 +7,8 @@
             New Submission("John Doe", "johndoe@gmail.com", "9876543210", "https://github.com/john_doe/my_slidely_task/", "00:01:19")
         }
         DisplaySubmission(currentIndex)
+
+
     End Sub
 
     Private Sub DisplaySubmission(index As Integer)

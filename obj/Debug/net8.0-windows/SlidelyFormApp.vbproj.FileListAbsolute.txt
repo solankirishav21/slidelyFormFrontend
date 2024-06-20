@@ -17,3 +17,4 @@ C:\Users\Rishav Singh Solanki\source\repos\SlidelyFormApp\SlidelyFormApp\obj\Deb
 C:\Users\Rishav Singh Solanki\source\repos\SlidelyFormApp\SlidelyFormApp\obj\Debug\net8.0-windows\SlidelyFormApp.pdb
 C:\Users\Rishav Singh Solanki\source\repos\SlidelyFormApp\SlidelyFormApp\obj\Debug\net8.0-windows\SlidelyFormApp.genruntimeconfig.cache
 C:\Users\Rishav Singh Solanki\source\repos\SlidelyFormApp\SlidelyFormApp\obj\Debug\net8.0-windows\ref\SlidelyFormApp.dll
+C:\Users\Rishav Singh Solanki\source\repos\SlidelyFormApp\SlidelyFormApp\obj\Debug\net8.0-windows\SlidelyFormApp.sourcelink.json

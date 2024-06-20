@@ -19,6 +19,7 @@ Partial Class ViewSubmissionsForm
         txtName.Location = New Point(16, 18)
         txtName.Margin = New Padding(4, 5, 4, 5)
         txtName.Name = "txtName"
+        'txtName.PlaceholderText = "Name"
         txtName.ReadOnly = True
         txtName.Size = New Size(345, 27)
         txtName.TabIndex = 0

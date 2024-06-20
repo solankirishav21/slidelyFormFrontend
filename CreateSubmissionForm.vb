@@ -15,7 +15,7 @@
     End Sub
 
     Private Sub btnSubmit_Click(sender As Object, e As EventArgs) Handles btnSubmit.Click
-        ' Submit the form data to the backend
+
         Dim newSubmission As New Submission(
             txtName.Text,
             txtEmail.Text,
@@ -23,7 +23,7 @@
             txtGithubLink.Text,
             txtStopwatchTime.Text
         )
-        ' Send newSubmission to the backend (e.g., using HttpClient)
+
     End Sub
 
     Private Sub CreateSubmissionForm_KeyDown(sender As Object, e As KeyEventArgs) Handles MyBase.KeyDown
